@@ -1,2 +1,3 @@
 # demo
-demo for github intro
+
+this is demo project
